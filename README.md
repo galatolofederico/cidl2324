@@ -17,6 +17,7 @@ Feel free to navigate through the repository to locate the specific resources yo
 ## Lectures 🎓
 
 1. [Lecture 1](./Lecture%201/): Brief introduction to Stochastic Gradient Descent (SGD) and deep dive into the fundamentals of computational graphs, covering both Forward Mode and Reverse Mode Differentiation.
+2. [Lecture 2](./Lecture%202/): Deep dive into Tensor Algebra and PyTorch: from understanding tensor operations to mastering PyTorch datasets, dataloaders, modules, and training.
 
 ## Contribution Guidelines 🤝
 
