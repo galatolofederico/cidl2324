@@ -7,6 +7,8 @@ Introduction about Convolutional Neural Networks (CNN) and ResNet: In this sessi
 ## Resources 📚
 
 - [Lecture Slides](./cnn.pdf) (pptx version: [here](./cnn.pptx))
+- [Exercise 0](./ex0.ipynb)
+- [Excercise 1](./ex1.ipynb) 
 
 ## Key Topics Covered 🧠
 
