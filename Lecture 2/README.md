@@ -13,6 +13,12 @@ Deep dive into Tensor Algebra and PyTorch: from understanding tensor operations 
 - [exercise1.ipynb](./exercise1.ipynb) solutions to the first exercise
 - [exercise2.ipynb](./exercise2.ipynb) solutions to the second exercise
 
+## YouTube Videos 📹:
+
+- [PyTorch in 100 seconds from fireship](https://www.youtube.com/watch?v=ORMx45xqWkA)
+- [PyTorch Datasets and Dataloaders](https://www.youtube.com/watch?v=PXOzkkB5eH0)
+- [1 hour about pytorch tensors, good but too long](https://www.youtube.com/watch?v=x9JiIFvlUwk)
+
 ## Key Topics Covered 🧠:
 
 1. **Tensor Algebra:**

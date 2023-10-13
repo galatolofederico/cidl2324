@@ -9,6 +9,11 @@ In this inaugural lecture, we embark on a foundational exploration of Stochastic
 - [SGD Introductory Notebook](./sgd-loss.ipynb)
 - [Lecture Slides](./Autograd.pdf) (pptx version: [here](./Autograd.pptx))
 
+## YouTube Videos 📹:
+
+- [Reverse mode differentiation over CG from stanford](https://www.youtube.com/watch?v=hM74RH82LyI)
+- [More in depth reverse mode differentiation over CG](https://www.youtube.com/watch?v=twTIGuVhKbQ)
+
 ## Key Topics Covered 🧠
 
 1. **Stochastic Gradient Descent (SGD):**

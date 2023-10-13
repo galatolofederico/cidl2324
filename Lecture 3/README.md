@@ -10,6 +10,12 @@ Introduction about Convolutional Neural Networks (CNN) and ResNet: In this sessi
 - [ex0.ipynb](./ex0.ipynb) Solution to the first exercise
 - [ex1.ipynb](./ex1.ipynb) Solution to the second exercise
 
+## YouTube Videos 📹:
+
+- [Convolution operation from 3b1b](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+- [PyTorch tutorail on CNNs](https://www.youtube.com/watch?v=pDdP0TFzsoQ)
+- [ResNet paper explained from Yannic](https://www.youtube.com/watch?v=GWt6Fu05voI)
+
 ## Key Topics Covered 🧠
 
 1. **Convolutional Neural Networks (CNN):**
