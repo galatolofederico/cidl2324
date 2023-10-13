@@ -10,8 +10,8 @@ Deep dive into Tensor Algebra and PyTorch: from understanding tensor operations 
 - [Slides Addendum](./addendum.pdf) (pptx version: [here](./addendum.pptx))
 - [dataset1.txt](./dataset1.txt) dataset for the first exercise
 - [dataset2.txt](./dataset2.txt) dataset for the second exercise
-- [exercise1.ipynb](./exercise1.ipynb) solutions of first exercise
-- [exercise2.ipynb](./exercise2.ipynb) solutions of second exercise
+- [exercise1.ipynb](./exercise1.ipynb) solutions to the first exercise
+- [exercise2.ipynb](./exercise2.ipynb) solutions to the second exercise
 
 ## Key Topics Covered 🧠:
 
