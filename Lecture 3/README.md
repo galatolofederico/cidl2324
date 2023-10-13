@@ -13,7 +13,7 @@ Introduction about Convolutional Neural Networks (CNN) and ResNet: In this sessi
 ## YouTube Videos 📹:
 
 - [Convolution operation from 3b1b](https://www.youtube.com/watch?v=KuXjwB4LzSA)
-- [PyTorch tutorail on CNNs](https://www.youtube.com/watch?v=pDdP0TFzsoQ)
+- [PyTorch tutorial on CNNs](https://www.youtube.com/watch?v=pDdP0TFzsoQ)
 - [ResNet paper explained from Yannic](https://www.youtube.com/watch?v=GWt6Fu05voI)
 
 ## Key Topics Covered 🧠
