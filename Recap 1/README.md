@@ -6,6 +6,7 @@ In this recap session, we consolidate the insights gained from our explorations 
 
 ## Resources 📚
 
+- [exercises.pdf](./exercises.pdf) Exercises
 - [ex1.ipynb](./ex1.ipynb) Solution to the first exercise (my live notebook)
 - [ex2.ipynb](./ex2.ipynb) Solution to the second exercise
 - [ex3.ipynb](./ex3.ipynb) Solution to the third exercise
