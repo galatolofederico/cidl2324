@@ -1,4 +1,4 @@
-# Lecture 3: Convolutional Neural Networks (CNN) and ResNet
+# Recap 1: PyTorch, Convolutional Neural Networks (CNN) and ResNet
 
 ## Overview 🌐
 
