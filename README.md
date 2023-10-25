@@ -20,6 +20,8 @@ Feel free to navigate through the repository to locate the specific resources yo
 2. [Lecture 2](./Lecture%202/): Deep dive into Tensor Algebra and PyTorch: from understanding tensor operations to mastering PyTorch datasets, dataloaders, modules, and training.
 3. [Lecture 3](./Lecture%203/): Introduction about Convolutional Neural Networks (CNN) and ResNet
 4. [Recap 1](./Recap%201/): Recap lecture about PyTorch, MLP, CNNs and ResNet.
+5. [Lecture 4](./Lecture%204/): Recurrent Neural Networks, LSTM and GRU.
+
 
 ## Contribution Guidelines 🤝
 
