@@ -9,6 +9,8 @@ This lecture delves into the realm of Autoencoders (AEs) and Variational Autoenc
 - [Lecture Slides](./ae.pdf) (pptx version: [here](./ae.pptx))
 - [ex1.ipynb](./ex1.ipynb) Solution to the first exercise
 - [ex2.ipynb](./ex2.ipynb) Solution to the second exercise
+- [ex2_logvar.ipynb](./ex2_logvar.ipynb) Solution to the second exercise with the encoder producing log(std^2) instead of std, numerically more stable
+
 
 ## YouTube Videos 📹:
 
