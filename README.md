@@ -22,6 +22,7 @@ Feel free to navigate through the repository to locate the specific resources yo
 4. [Recap 1](./Recap%201/): Recap lecture about PyTorch, MLP, CNNs and ResNet.
 5. [Lecture 4](./Lecture%204/): Recurrent Neural Networks, LSTM and GRU.
 6. [Lecture 5](./Lecture%205/): Autoencoders and Variational Autoencoders.
+7. [Lecture 6](./Lecture%206/): Vector Quantized Variational Autoencoders.
 
 ## Contribution Guidelines 🤝
 
