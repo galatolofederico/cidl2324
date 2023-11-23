@@ -23,6 +23,8 @@ Feel free to navigate through the repository to locate the specific resources yo
 5. [Lecture 4](./Lecture%204/): Recurrent Neural Networks, LSTM and GRU.
 6. [Lecture 5](./Lecture%205/): Autoencoders and Variational Autoencoders.
 7. [Lecture 6](./Lecture%206/): Vector Quantized Variational Autoencoders.
+8. [Lecture 7](./Lecture%207/): Generative Adversarial Networks (GANs).
+
 
 ## Contribution Guidelines 🤝
 
