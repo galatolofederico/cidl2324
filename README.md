@@ -24,6 +24,7 @@ Feel free to navigate through the repository to locate the specific resources yo
 6. [Lecture 5](./Lecture%205/): Autoencoders and Variational Autoencoders.
 7. [Lecture 6](./Lecture%206/): Vector Quantized Variational Autoencoders.
 8. [Lecture 7](./Lecture%207/): Generative Adversarial Networks (GANs).
+9. [Lecture 8](./Lecture%208/): Advanced Topics in Deep Learning and Computer Vision.
 
 
 ## Contribution Guidelines 🤝
