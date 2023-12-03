@@ -8,7 +8,7 @@ This lecture delves into the exciting world of Generative Adversarial Networks (
 
 - [Lecture Slides](./gan.pdf) (pptx version: [here](./gan.pptx))
 - [ex1.ipynb](./ex1.ipynb) solution to the first exercise
-- ex2.ipynb solution to the second exercise exercise (will upload in a couple of days)
+- [ex2.ipynb](./ex2-trad.ipynb) traditional solution 
 
 
 ## YouTube Videos 📹:
