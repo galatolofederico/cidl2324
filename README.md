@@ -1,5 +1,7 @@
 # Computational Intelligence and Deep Learning 🧠🤖
 
+> 📢 Please review the ["Questions you must know the answers to before attending the exam"](./questions.md) document. This critical resource contains key questions that are crucial for your success in the exam.
+
 Welcome to the official repository for the course [Computational Intelligence and Deep Learning](https://esami.unipi.it/programma.php?c=61134&aa=2023&docente=GALATOLO&insegnamento=&sd=0).
 
 This repository serves as a comprehensive resource hub, providing you with essential slides, materials, and collaborative code developed during lectures
